@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    String zip = "08852";
+    String zip;
     TextView display;
     TextView forecast1;
     TextView forecast2;
